@@ -40,9 +40,9 @@ body {
 	font-size: 1rem;
 	font-weight: 400;
 	line-height: 1.4;
-	color: #ddd;
+	color: #1b1b1b
 	text-align: left;
-	background-color: #1b1b1b;
+	background-color: #ddd;
 	-webkit-font-smoothing: antialiased;
 }
 
